@@ -5,7 +5,7 @@ Wrap 'n' Shake provides systematic prediction of multiple binding sites and mode
 
 Wrap 'n' Shake (WnS) consists of Wrapper and Shaker steps. 
 
-![Drag Racing](Dragster.jpg)
+![Alt text](/home/moni/Downloads/banner_22.png?raw=true "Title")
 
 Wrapper builds a monolayer of ligand copies around the target molecule. Shaker removes loosely bound ligand copies from the surface of the target using molecular dynamics. WnS is a useful tool of fast and systematic prediction of multiple binding modes at atomic resolution. WnS combines the advantages of available open source program packages AutoDock 4.2.3 and GROMACS for efficient and reliable blind docking
 
