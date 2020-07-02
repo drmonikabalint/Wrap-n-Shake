@@ -1,7 +1,7 @@
 # [Wrap-n-Shake](https://www.wnsdock.xyz) 
 
 
-Wrap 'n' Shake provides systematic prediction of multiple binding sites and modes of ligands on macromolecular targets at atomic resolution
+[Wrap 'n' Shake](https://www.wnsdock.xyz) provides systematic prediction of multiple binding sites and modes of ligands on macromolecular targets at atomic resolution
 
 Wrap 'n' Shake (WnS) consists of Wrapper and Shaker steps. 
 
